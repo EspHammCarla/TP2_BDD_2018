@@ -12,12 +12,12 @@ go
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (31516745, '03-21-1991', 'Antoine', 'Griezmann')
+values (31516745, '21-03-1991', 'Antoine', 'Griezmann')
 go
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (25486159, '07-28-1993', 'Harry', 'Kane')
+values (25486159, '28-07-1993', 'Harry', 'Kane')
 go
 
 insert into Integrante
@@ -32,10 +32,15 @@ go
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (19465234, '10-15-1968', 'Didier', 'Deschamps')
+values (19465234, '15-10-1968', 'Didier', 'Deschamps')
 go
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (10324586, '03-16-1938', 'Carlos', 'Bilardo')
+values (10324586, '16-03-1938', 'Carlos', 'Bilardo')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (10435456, '03-02-1960', 'Joachim', 'Löw')
 go

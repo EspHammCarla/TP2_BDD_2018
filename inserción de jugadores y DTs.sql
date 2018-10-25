@@ -39,3 +39,8 @@ insert into Director_tecnico
 (pasaporte, matricula)
 values (10324586, 333333)
 go
+
+insert into Director_tecnico
+(pasaporte, matricula)
+values (10435456, 444444)
+go

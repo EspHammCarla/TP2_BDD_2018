@@ -60,3 +60,13 @@ insert into Ciudad
 (codigo, nombre, cod_Pais)
 values (12, 'Nuremberg', 01)
 go
+
+insert into Ciudad
+(codigo, nombre, cod_Pais)
+values (13, 'Rio de Janeiro', 21)
+go
+
+insert into Ciudad
+(codigo, nombre, cod_Pais)
+values (14, 'CABA', 9)
+go
