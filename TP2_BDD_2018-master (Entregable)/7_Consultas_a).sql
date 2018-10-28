@@ -13,9 +13,6 @@ as (
 	where I.descripcion = 'Final'
 )
 
-select *
-from Finales_jugadas
-
 create view Cant_finales_pais
 as(
 	select P.codigo, P.nombre, count(P.codigo) cant_finales
@@ -24,8 +21,6 @@ as(
 	group by P.codigo, P.nombre
 
 )
-select *
-from Cant_finales_pais
 
 select top 5 *
 from Cant_finales_pais

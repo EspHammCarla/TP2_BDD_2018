@@ -160,3 +160,8 @@ insert into Pais
 (codigo, nombre)
 values (32, 'Ucrania')
 go
+
+insert into Pais
+(codigo, nombre)
+values (33, 'Colombia')
+go
