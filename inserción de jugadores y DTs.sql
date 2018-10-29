@@ -44,3 +44,43 @@ insert into Director_tecnico
 (pasaporte, matricula)
 values (10435456, 444444)
 go
+
+insert into Jugador 
+(pasaporte)
+values (28672232) 
+go
+
+insert into Jugador 
+(pasaporte)
+values (99000124)
+go
+
+insert into Jugador
+(pasaporte)
+values (99458124)
+go
+
+insert into Jugador
+(pasaporte)
+values (99458459)
+go
+
+insert into Jugador
+(pasaporte)
+values (98654592)
+go
+
+insert into Jugador
+(pasaporte)
+values (98125678)
+go
+
+insert into Jugador
+(pasaporte)
+values (30147852)
+go
+
+insert into Jugador
+(pasaporte)
+values (303459761)
+go 
