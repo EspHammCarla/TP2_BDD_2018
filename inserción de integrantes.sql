@@ -2,7 +2,7 @@ use DB_MundialesDeFutbol
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (39879305, '12-10-1987', 'Golzalo', 'Higuaín')
+values (39879305, '12-10-1987', 'Golzalo', 'HiguaÃ­n')
 go
 
 insert into Integrante
@@ -42,5 +42,45 @@ go
 
 insert into Integrante
 (pasaporte, fecha_de_nacimiento, nombre, apellido)
-values (10435456, '03-02-1960', 'Joachim', 'Löw')
+values (10435456, '03-02-1960', 'Joachim', 'LÃ¶w')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (28672232, '14-04-1973', 'Roberto', 'Ayala')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (99000124, '09-06-1978', 'Miroslav', 'Klose')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (99458124, '01-05-1973', 'Oliver', 'Neuville')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (99458459, '26-09-1976', 'Michael', 'Ballack')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (98654592, '04-06-1985', 'Lucas', 'Podolski')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (98125678, '02-05-1980', 'Tim', 'Borowski')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (30147852, '10-10-1979', 'Julio', 'Cruz')
+go
+
+insert into Integrante
+(pasaporte, fecha_de_nacimiento, nombre, apellido)
+values (303459761, '02-01-1981', 'Maximiliano', 'Rodriguez')
 go
